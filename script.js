@@ -1,2 +1,15 @@
-function _0x1ada(){const _0x593b70=['demo','22UuNbDW','2520700yorwOR','108728jLJXli','41348dRDVcb','18gUMHVv','45jnLwwQ','1288480CyIaEE','IS\x20INCORRECT\x20!!!','837XocWYq','182307KvEvob','35076CatHwG','getElementById','567239rrdUWH','numb','innerHTML','href','5522MIYivh'];_0x1ada=function(){return _0x593b70;};return _0x1ada();}function _0x49d1(_0x3404dd,_0x107f8f){const _0x1ada4c=_0x1ada();return _0x49d1=function(_0x49d100,_0x1afbd8){_0x49d100=_0x49d100-0x160;let _0x28849b=_0x1ada4c[_0x49d100];return _0x28849b;},_0x49d1(_0x3404dd,_0x107f8f);}(function(_0xc76cd,_0x9d2260){const _0x5dafb6=_0x49d1,_0x3e08a2=_0xc76cd();while(!![]){try{const _0x150088=parseInt(_0x5dafb6(0x168))/0x1+-parseInt(_0x5dafb6(0x16e))/0x2*(parseInt(_0x5dafb6(0x165))/0x3)+-parseInt(_0x5dafb6(0x171))/0x4*(-parseInt(_0x5dafb6(0x161))/0x5)+parseInt(_0x5dafb6(0x160))/0x6*(parseInt(_0x5dafb6(0x16f))/0x7)+parseInt(_0x5dafb6(0x170))/0x8*(parseInt(_0x5dafb6(0x164))/0x9)+-parseInt(_0x5dafb6(0x162))/0xa+-parseInt(_0x5dafb6(0x16c))/0xb*(parseInt(_0x5dafb6(0x166))/0xc);if(_0x150088===_0x9d2260)break;else _0x3e08a2['push'](_0x3e08a2['shift']());}catch(_0x5d0612){_0x3e08a2['push'](_0x3e08a2['shift']());}}}(_0x1ada,0xb4a2a));function myFunction(){const _0x5443e9=_0x49d1;let _0x2d38de=document[_0x5443e9(0x167)](_0x5443e9(0x169))['value'],_0x117468;_0x2d38de=='sid'?(window['location'][_0x5443e9(0x16b)]='https://www.w3schools.com/jsref/jsref_link.asp',_0x117468=''):_0x117468=_0x5443e9(0x163),document[_0x5443e9(0x167)](_0x5443e9(0x16d))[_0x5443e9(0x16a)]=_0x117468;}
+function myFunction() {
+    // Get the value of the input field with id="numb"
+    let x = document.getElementById("numb").value;
+    // If x is Not a Number or less than one or greater than 10
+    let text;
+    const key= 'c2YxMXA1'
+    if (x==atob(key)) {
+        window.location.href = atob("aHR0cHM6Ly9raXJhbmJhYnUwMDcuZ2l0aHViLmlvL0N5YmVyLU9keXNzZXktUm91bmQz");
+        text=""
+    } else {
+      text = "IS INCORRECT !!!";
+    }
+    document.getElementById("demo").innerHTML = text;
+  }
 //f1r6u3
