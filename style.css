@@ -293,7 +293,8 @@ padding-right: 30px;
   background-color:#ffffff;
 }
 #our-service h2{
- color: black;  
+ color: black;
+ font-weight: 650;  
 }
 .bars {
   height: max-content;
