@@ -111,6 +111,7 @@ nav {
   font-size: 20px;
   color: #ffffff;
   cursor: pointer;
+  padding-top: 250px;
 }
 .home-sec h1 span{
   transition: .5s linear
